@@ -1,8 +1,8 @@
 {
-  "name": "robofriends",
-  "homepage": "https://Pranali3529.github.io/RoboFriends",
+  "name": "robobook",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://pranali3529.github.io/robobook",
   "dependencies": {
     "gh-pages": "^3.2.3",
     "react": "^17.0.2",
