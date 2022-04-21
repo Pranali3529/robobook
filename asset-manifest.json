@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/robobook/static/css/main.d74e1976.css",
+    "main.js": "/robobook/static/js/main.86ac6de5.js",
+    "service-worker.js": "/robobook/service-worker.js",
+    "static/media/SEGA.woff": "/robobook/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/robobook/index.html",
+    "main.d74e1976.css.map": "/robobook/static/css/main.d74e1976.css.map",
+    "main.86ac6de5.js.map": "/robobook/static/js/main.86ac6de5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d74e1976.css",
+    "static/js/main.86ac6de5.js"
+  ]
+}
